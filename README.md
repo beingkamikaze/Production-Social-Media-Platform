@@ -4,6 +4,8 @@
 
 This Twitter Clone web application was developed using the MERN stack (MongoDB, Express.js, React, Node.js) with a primary focus on security, real-time communication, and advanced social interaction features. The application enables users to create accounts, post tweets (text and images), follow/unfollow other users, like, comment, and engage in chat conversations using Socket.io.
 
+- **Demo:** [https://twitter-clone-mayank.onrender.com]
+
 ## Key Features
 
 ### User Authentication
@@ -69,7 +71,7 @@ The Twitter Clone MERN application successfully replicates core Twitter features
 
 ## Project Details
 
-- **Demo:** [Link to live demo if available]
+- **Demo:** [https://twitter-clone-mayank.onrender.com]
 
 ## Skills Demonstrated
 
